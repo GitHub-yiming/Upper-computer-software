@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30309.148
+VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusDemo", "ModbusDemo.csproj", "{EB78AB68-1FAB-4130-B7B3-47C4C7C14B3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModbusDemo", "ModbusDemo.csproj", "{518D3FE6-84A4-4D58-8F6D-F05056603E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modbus", "Modbus\Modbus.csproj", "{1825E12D-F707-4F89-86F4-13CCE85990B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modbus", "D:\Installation_package\Upper-computer-software-master\xinjie\Modbus\Modbus.csproj", "{1825E12D-F707-4F89-86F4-13CCE85990B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EB78AB68-1FAB-4130-B7B3-47C4C7C14B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB78AB68-1FAB-4130-B7B3-47C4C7C14B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB78AB68-1FAB-4130-B7B3-47C4C7C14B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB78AB68-1FAB-4130-B7B3-47C4C7C14B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518D3FE6-84A4-4D58-8F6D-F05056603E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518D3FE6-84A4-4D58-8F6D-F05056603E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518D3FE6-84A4-4D58-8F6D-F05056603E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518D3FE6-84A4-4D58-8F6D-F05056603E31}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1825E12D-F707-4F89-86F4-13CCE85990B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1825E12D-F707-4F89-86F4-13CCE85990B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1825E12D-F707-4F89-86F4-13CCE85990B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E1E18243-3483-4BF3-9D6B-404DBB57603E}
+		SolutionGuid = {37112276-3EF2-4871-9D27-9DE52B84EF13}
 	EndGlobalSection
 EndGlobal

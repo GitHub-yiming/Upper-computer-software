@@ -1,6 +1,6 @@
-﻿namespace ModbusDemo
+namespace ModbusDemo
 {
-    public class but_Hide
-    {
-    }
+	public class but_Hide
+	{
+	}
 }

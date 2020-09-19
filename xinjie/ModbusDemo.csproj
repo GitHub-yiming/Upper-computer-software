@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>ModbusDemo</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net46</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\图标2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\数据点.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\数据点.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\密码.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\登录.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\灯泡.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\灯泡 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\背景3.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\背景2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\net46\picture\背景.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Modbus">
+      <HintPath>E:\Programs\C#\Program\source\xinjie\bin\Debug\Modbus.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Speech">
+      <HintPath>E:\Programs\C#\Program\source\xinjie\bin\Debug\System.Speech.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Resource1.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
