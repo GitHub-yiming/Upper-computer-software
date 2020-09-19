@@ -1,0 +1,12 @@
+C:\Users\xiketang\source\repos\thinger.com.MelsecFXPro\FX3U\bin\Debug\FX3U.dll
+C:\Users\xiketang\source\repos\thinger.com.MelsecFXPro\FX3U\bin\Debug\FX3U.pdb
+C:\Users\xiketang\source\repos\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.csprojAssemblyReference.cache
+C:\Users\xiketang\source\repos\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.csproj.CoreCompileInputs.cache
+C:\Users\xiketang\source\repos\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.dll
+C:\Users\xiketang\source\repos\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.pdb
+D:\Installation_package\上位机体系化编程训练营（第3节）\同步源码\thinger.com.MelsecFXPro\FX3U\bin\Debug\FX3U.dll
+D:\Installation_package\上位机体系化编程训练营（第3节）\同步源码\thinger.com.MelsecFXPro\FX3U\bin\Debug\FX3U.pdb
+D:\Installation_package\上位机体系化编程训练营（第3节）\同步源码\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.csproj.CoreCompileInputs.cache
+D:\Installation_package\上位机体系化编程训练营（第3节）\同步源码\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.dll
+D:\Installation_package\上位机体系化编程训练营（第3节）\同步源码\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.pdb
+D:\Installation_package\上位机体系化编程训练营（第3节）\同步源码\thinger.com.MelsecFXPro\FX3U\obj\Debug\FX3U.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Programs\C#\Program\source\Modbus\bin\Debug\Modbus.dll
+E:\Programs\C#\Program\source\Modbus\bin\Debug\Modbus.pdb
+E:\Programs\C#\Program\source\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+E:\Programs\C#\Program\source\Modbus\obj\Debug\Modbus.dll
+E:\Programs\C#\Program\source\Modbus\obj\Debug\Modbus.pdb
