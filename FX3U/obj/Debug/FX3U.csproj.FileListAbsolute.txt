@@ -1,0 +1,10 @@
+E:\Program\C#\Program\source\FX3U\bin\Debug\FX3U.dll
+E:\Program\C#\Program\source\FX3U\bin\Debug\FX3U.pdb
+E:\Program\C#\Program\source\FX3U\obj\Debug\FX3U.csprojAssemblyReference.cache
+E:\Program\C#\Program\source\FX3U\obj\Debug\FX3U.csproj.CoreCompileInputs.cache
+E:\Program\C#\Program\source\FX3U\obj\Debug\FX3U.dll
+E:\Program\C#\Program\source\FX3U\obj\Debug\FX3U.pdb
+E:\Programs\C#\Program\source\FX3U\obj\Debug\FX3U.csprojAssemblyReference.cache
+E:\Programs\C#\Program\source\FX3U\obj\Debug\FX3U.csproj.CoreCompileInputs.cache
+E:\Programs\C#\Program\source\FX3U\obj\Debug\FX3U.dll
+E:\Programs\C#\Program\source\FX3U\obj\Debug\FX3U.pdb
